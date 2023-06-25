@@ -13,7 +13,7 @@ Coastline Text Editor is a simple python tkinter based text editor application l
 
 ## How to Download
 
-Download this project from here [Download Coastline Text Editor](https://downgit.github.io/#/home?url=https://github.com/Tanmay-Tiwaricyber/Coastline%20-%20Text%20Editor)
+Download this project from here [Download Coastline Text Editor](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Tanmay-Tiwaricyber/Coastline-Text-Editor)
 
 ## Requirements
 
