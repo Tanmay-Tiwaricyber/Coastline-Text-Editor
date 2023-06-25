@@ -9,7 +9,7 @@ Coastline Text Editor is a simple python tkinter based text editor application l
 * Regex Search
 * Cool themes
 
-![Alt text](app.png?raw=true "Coastline Text Editor")
+
 
 ## How to Download
 
